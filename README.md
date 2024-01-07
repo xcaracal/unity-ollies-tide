@@ -2,20 +2,23 @@
 
 Welcome to the Ollie's Tide Unity project repository! 🦦🦦
 
-![Cute Game Image](/assets/ollie-otter.gif)
+![Cute Game Image](/readme_resources/otter.gif)
 
 ## Getting Started
 
 ### 1. Download the Tools
 
+NOTE: For Unity Hub, it's also gonna have you install vs-code to in the installation process. 
 - **Unity Hub**: [Download here](https://unity3d.com/get-unity/download)
 - **GitHub Desktop**: [Download here](https://desktop.github.com/)
+- **GIT LFS** (Large Files): [Download Here](https://git-lfs.com/)
+- **GIT**: [Download Here](https://git-scm.com/download/win)
 
 ### 2. Clone the Project
 
 1. Open GitHub Desktop.
 2. Click on "File" > "Clone Repository..."
-3. Paste this link: `https://github.com/xcaracal/ollies-tide.git`.
+3. Paste this link: `https://github.com/xcaracal/UnityOlliesTide.git`.
 4. Choose a location on your computer.
 5. Click "Clone."
 
@@ -41,9 +44,6 @@ Welcome to the Ollie's Tide Unity project repository! 🦦🦦
 
 Contributing to the project is encouraged! Follow these steps:
 
-1. **Fork the Project**: Click the "Fork" button on the top-right.
-2. **Make Changes**: Customize the game as you like using Unity Editor.
-3. **Share Your Changes**: Commit your changes and push them to your fork.
-4. **Join the Team**: Open a pull request, and we might invite you to join the contributors.
-
-Happy coding and gaming! 🚀🎮
+1. **Pull Changes**: Pull changes from the GitHub desktop (if you know there is a change).
+2. **Make Changes**: Customize the game using Unity Editor/VSCode.
+3. **Share Your Changes**: Commit your changes and push them.
