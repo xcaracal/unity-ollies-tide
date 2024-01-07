@@ -39,6 +39,7 @@ NOTE: For Unity Hub, it's also gonna have you install vs-code to in the installa
 2. Click on "Open Project."
 3. Once the project is open, navigate to the main scene (usually named "Main" or "Game").
 4. Click the "Play" button in the Unity Editor toolbar to run the game.
+   NOTE:To mess with scenes when you first open click the scenes in the scenes folder.
 
 ## Making Contributions
 
